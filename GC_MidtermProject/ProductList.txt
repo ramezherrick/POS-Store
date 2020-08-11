@@ -1,0 +1,21 @@
+Cheese         |Food    |Cheddar        |4.99|31
+Milk           |Drink   |2% Milk        |3.49|16
+Beef           |Food    |1 lb           |6.99|93
+Television     |HardGood|85" 8k 5G      |4999|95
+Stuffed Penguin|HardGood|Stuffed animal |14.99|98
+Polka Dot Coat |SoftGood|Rain coat      |19.99|96
+Nachos         |Food    |Delicious Snack|2.99|97
+Refrigerator   |HardGood|Keeps food cold|699.99|100
+Shoes          |SoftGood|Nike           |59.99|89
+Gaming Laptop  |HardGood|HP             |1899.99|80
+Boxers         |SoftGood|3pk            |10|100
+Shoes          |HardGood|Addidas        |59.99|92
+Gum            |Food    |Ice breaker    |2.99|93
+Keyboard       |HardGood|HP Key board   |19.99|100
+Mouse          |HardGood|HP mouse       |9.99|100
+Onion          |Food    |food           |0.99|50
+Pizza          |Food    |pepproni       |9.99|88
+Hot Dog        |Food    |beef           |4.99|50
+Couch          |HardGood|2 person       |699.99|3
+Playstation 5  |HardGood|Newer than 4!  |599|9
+stapler|HardGood|red|19.99|42
